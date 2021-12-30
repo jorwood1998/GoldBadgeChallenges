@@ -1,9 +1,0 @@
-C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\ClaimsRepo\bin\Debug\ClaimsRepo.dll
-C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\ClaimsRepo\bin\Debug\ClaimsRepo.pdb
-C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\ClaimsRepo\bin\Debug\ClaimsPocos.dll
-C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\ClaimsRepo\bin\Debug\ClaimsPocos.pdb
-C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\ClaimsRepo\obj\Debug\ClaimsRepo.csproj.AssemblyReference.cache
-C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\ClaimsRepo\obj\Debug\ClaimsRepo.csproj.CoreCompileInputs.cache
-C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\ClaimsRepo\obj\Debug\ClaimsRepo.csproj.CopyComplete
-C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\ClaimsRepo\obj\Debug\ClaimsRepo.dll
-C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\ClaimsRepo\obj\Debug\ClaimsRepo.pdb

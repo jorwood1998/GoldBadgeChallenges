@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "297a8694-bbdf-492f-9829-6e4080dfb1f4": {
+      "ProjectGuid": "297a8694-bbdf-492f-9829-6e4080dfb1f4",
+      "DisplayName": "ChallengeFour",
+      "ColorIndex": 0
+    },
+    "2277d80a-de5d-4329-91a8-b421dea51756": {
+      "ProjectGuid": "2277d80a-de5d-4329-91a8-b421dea51756",
+      "DisplayName": "EventUI",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
