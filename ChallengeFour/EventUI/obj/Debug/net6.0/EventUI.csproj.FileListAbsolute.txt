@@ -1,0 +1,5 @@
+C:\Users\jorwo\source\repos\SD_119\ChallengeFour\EventUI\obj\Debug\net6.0\EventUI.csproj.AssemblyReference.cache
+C:\Users\jorwo\source\repos\SD_119\ChallengeFour\EventUI\obj\Debug\net6.0\EventUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorwo\source\repos\SD_119\ChallengeFour\EventUI\obj\Debug\net6.0\EventUI.AssemblyInfoInputs.cache
+C:\Users\jorwo\source\repos\SD_119\ChallengeFour\EventUI\obj\Debug\net6.0\EventUI.AssemblyInfo.cs
+C:\Users\jorwo\source\repos\SD_119\ChallengeFour\EventUI\obj\Debug\net6.0\EventUI.csproj.CoreCompileInputs.cache

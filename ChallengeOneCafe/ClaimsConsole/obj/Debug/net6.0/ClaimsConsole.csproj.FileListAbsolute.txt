@@ -1,0 +1,15 @@
+C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\ClaimsConsole\obj\Debug\net6.0\ClaimsConsole.csproj.AssemblyReference.cache
+C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\ClaimsConsole\obj\Debug\net6.0\ClaimsConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\ClaimsConsole\obj\Debug\net6.0\ClaimsConsole.AssemblyInfoInputs.cache
+C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\ClaimsConsole\obj\Debug\net6.0\ClaimsConsole.AssemblyInfo.cs
+C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\ClaimsConsole\obj\Debug\net6.0\ClaimsConsole.csproj.CoreCompileInputs.cache
+C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\ClaimsConsole\bin\Debug\net6.0\ClaimsConsole.exe
+C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\ClaimsConsole\bin\Debug\net6.0\ClaimsConsole.deps.json
+C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\ClaimsConsole\bin\Debug\net6.0\ClaimsConsole.runtimeconfig.json
+C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\ClaimsConsole\bin\Debug\net6.0\ClaimsConsole.dll
+C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\ClaimsConsole\bin\Debug\net6.0\ref\ClaimsConsole.dll
+C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\ClaimsConsole\bin\Debug\net6.0\ClaimsConsole.pdb
+C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\ClaimsConsole\obj\Debug\net6.0\ClaimsConsole.dll
+C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\ClaimsConsole\obj\Debug\net6.0\ref\ClaimsConsole.dll
+C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\ClaimsConsole\obj\Debug\net6.0\ClaimsConsole.pdb
+C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\ClaimsConsole\obj\Debug\net6.0\ClaimsConsole.genruntimeconfig.cache

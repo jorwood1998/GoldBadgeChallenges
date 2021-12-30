@@ -1,0 +1,2 @@
+C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\ClaimsRepository\obj\Debug\ClaimsRepository.csproj.AssemblyReference.cache
+C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\ClaimsRepository\obj\Debug\ClaimsRepository.csproj.CoreCompileInputs.cache

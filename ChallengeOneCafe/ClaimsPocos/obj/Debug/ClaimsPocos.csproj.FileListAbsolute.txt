@@ -1,0 +1,6 @@
+C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\ClaimsPocos\bin\Debug\ClaimsPocos.dll
+C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\ClaimsPocos\bin\Debug\ClaimsPocos.pdb
+C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\ClaimsPocos\obj\Debug\ClaimsPocos.csproj.AssemblyReference.cache
+C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\ClaimsPocos\obj\Debug\ClaimsPocos.csproj.CoreCompileInputs.cache
+C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\ClaimsPocos\obj\Debug\ClaimsPocos.dll
+C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\ClaimsPocos\obj\Debug\ClaimsPocos.pdb

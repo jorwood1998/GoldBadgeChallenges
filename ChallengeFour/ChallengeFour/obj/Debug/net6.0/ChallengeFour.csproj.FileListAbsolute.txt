@@ -1,0 +1,12 @@
+C:\Users\jorwo\source\repos\SD_119\ChallengeFour\ChallengeFour\bin\Debug\net6.0\ChallengeFour.deps.json
+C:\Users\jorwo\source\repos\SD_119\ChallengeFour\ChallengeFour\bin\Debug\net6.0\ChallengeFour.dll
+C:\Users\jorwo\source\repos\SD_119\ChallengeFour\ChallengeFour\bin\Debug\net6.0\ref\ChallengeFour.dll
+C:\Users\jorwo\source\repos\SD_119\ChallengeFour\ChallengeFour\bin\Debug\net6.0\ChallengeFour.pdb
+C:\Users\jorwo\source\repos\SD_119\ChallengeFour\ChallengeFour\obj\Debug\net6.0\ChallengeFour.csproj.AssemblyReference.cache
+C:\Users\jorwo\source\repos\SD_119\ChallengeFour\ChallengeFour\obj\Debug\net6.0\ChallengeFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorwo\source\repos\SD_119\ChallengeFour\ChallengeFour\obj\Debug\net6.0\ChallengeFour.AssemblyInfoInputs.cache
+C:\Users\jorwo\source\repos\SD_119\ChallengeFour\ChallengeFour\obj\Debug\net6.0\ChallengeFour.AssemblyInfo.cs
+C:\Users\jorwo\source\repos\SD_119\ChallengeFour\ChallengeFour\obj\Debug\net6.0\ChallengeFour.csproj.CoreCompileInputs.cache
+C:\Users\jorwo\source\repos\SD_119\ChallengeFour\ChallengeFour\obj\Debug\net6.0\ChallengeFour.dll
+C:\Users\jorwo\source\repos\SD_119\ChallengeFour\ChallengeFour\obj\Debug\net6.0\ref\ChallengeFour.dll
+C:\Users\jorwo\source\repos\SD_119\ChallengeFour\ChallengeFour\obj\Debug\net6.0\ChallengeFour.pdb

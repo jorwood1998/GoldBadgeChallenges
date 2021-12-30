@@ -1,0 +1,2 @@
+C:\Users\jorwo\source\repos\SD_119\InsuranceRepo\InsuranceRepo\obj\Debug\InsuranceRepo.csproj.AssemblyReference.cache
+C:\Users\jorwo\source\repos\SD_119\InsuranceRepo\InsuranceRepo\obj\Debug\InsuranceRepo.csproj.CoreCompileInputs.cache

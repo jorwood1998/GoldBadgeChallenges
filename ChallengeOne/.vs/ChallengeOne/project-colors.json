@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9c45a375-bdc0-45d7-97ce-1c4df4340ce4": {
+      "ProjectGuid": "9c45a375-bdc0-45d7-97ce-1c4df4340ce4",
+      "DisplayName": "CafeTest",
+      "ColorIndex": 0
+    },
+    "c1efa9b3-0cd1-4741-a4b4-f913a461cc78": {
+      "ProjectGuid": "c1efa9b3-0cd1-4741-a4b4-f913a461cc78",
+      "DisplayName": "CafeClasses",
+      "ColorIndex": 1
+    },
+    "183e4b4d-bb86-4f15-b420-d0920038cfdb": {
+      "ProjectGuid": "183e4b4d-bb86-4f15-b420-d0920038cfdb",
+      "DisplayName": "CafeRepo",
+      "ColorIndex": 2
+    },
+    "621837dd-4d37-4513-b99a-89ae347f51b5": {
+      "ProjectGuid": "621837dd-4d37-4513-b99a-89ae347f51b5",
+      "DisplayName": "CafeUI",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

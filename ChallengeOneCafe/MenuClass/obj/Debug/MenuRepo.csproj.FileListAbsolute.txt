@@ -1,0 +1,9 @@
+C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\MenuClass\bin\Debug\MenuClass.dll
+C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\MenuClass\bin\Debug\MenuClass.pdb
+C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\MenuClass\bin\Debug\MenuPocos.dll
+C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\MenuClass\bin\Debug\MenuPocos.pdb
+C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\MenuClass\obj\Debug\MenuRepo.csproj.AssemblyReference.cache
+C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\MenuClass\obj\Debug\MenuRepo.csproj.CoreCompileInputs.cache
+C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\MenuClass\obj\Debug\MenuRepo.csproj.CopyComplete
+C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\MenuClass\obj\Debug\MenuClass.dll
+C:\Users\jorwo\source\repos\SD_119\ChallengeOneCafe\MenuClass\obj\Debug\MenuClass.pdb

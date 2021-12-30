@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "22828d14-fec4-45de-b4d4-d150b457d8e1": {
+      "ProjectGuid": "22828d14-fec4-45de-b4d4-d150b457d8e1",
+      "DisplayName": "MenuRepo",
+      "ColorIndex": 0
+    },
+    "49a23f09-bdb6-453f-b706-ff009d4476e6": {
+      "ProjectGuid": "49a23f09-bdb6-453f-b706-ff009d4476e6",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "2aebf325-7513-45d8-925e-704d6dc62a12": {
+      "ProjectGuid": "2aebf325-7513-45d8-925e-704d6dc62a12",
+      "DisplayName": "MenuPOCO",
+      "ColorIndex": 2
+    },
+    "811260cb-93e6-40c8-ad1a-486f73babb98": {
+      "ProjectGuid": "811260cb-93e6-40c8-ad1a-486f73babb98",
+      "DisplayName": "MenuTest",
+      "ColorIndex": 3
+    },
+    "94ae213f-9014-4cdc-a43a-2abe48bbc55c": {
+      "ProjectGuid": "94ae213f-9014-4cdc-a43a-2abe48bbc55c",
+      "DisplayName": "MenuPocos",
+      "ColorIndex": 4
+    },
+    "69248bc0-30fa-466a-bd37-8eb3bd3c234f": {
+      "ProjectGuid": "69248bc0-30fa-466a-bd37-8eb3bd3c234f",
+      "DisplayName": "ClaimsRepo",
+      "ColorIndex": 5
+    },
+    "75c5e35c-b6e0-4c95-83b9-301ac3b87ddc": {
+      "ProjectGuid": "75c5e35c-b6e0-4c95-83b9-301ac3b87ddc",
+      "DisplayName": "ClaimsPocos",
+      "ColorIndex": 6
+    },
+    "47068636-9769-4d6d-9bce-e7c88c43d5a7": {
+      "ProjectGuid": "47068636-9769-4d6d-9bce-e7c88c43d5a7",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 7
+    },
+    "21fda205-74e6-4135-bb2b-5d0e88c0eb54": {
+      "ProjectGuid": "21fda205-74e6-4135-bb2b-5d0e88c0eb54",
+      "DisplayName": "ClaimsConsole",
+      "ColorIndex": 8
+    },
+    "4f477c77-222c-4733-84d1-7a7d3c2e52d7": {
+      "ProjectGuid": "4f477c77-222c-4733-84d1-7a7d3c2e52d7",
+      "DisplayName": "ClaimsRepository",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}
